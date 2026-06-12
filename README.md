@@ -31,7 +31,7 @@
 
 ## 📫 How to Reach Me
 
-* Email: [your-email@example.com](pymahajan24@gmail.com)
+* Email: (pymahajan24@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/prashant-mahajan-110540294/
 * GitHub:(https://github.com/PrashantMahajan24)
 
