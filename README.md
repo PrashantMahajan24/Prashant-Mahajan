@@ -3,7 +3,7 @@
 ## 💻 About Me
 
 * 🎓 Computer Science Graduate
-* 📊 Interested in Data Analytics and Backend Development
+* 📊 Interested in Data Analytics and Data science
 * 🌱 Currently learning Python, SQL, Power BI, and Excel
 * 🚀 Building projects to improve my technical skills
 * 💡 Always eager to learn new technologies and solve real-world problems
